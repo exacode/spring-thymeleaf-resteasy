@@ -17,5 +17,5 @@ Features
 * Exception handling - according to best practices from: http://www.stormpath.com/blog/spring-mvc-rest-exception-handling-best-practices-part-1
 * Hibernate validation - simple validation made by Hibernate Validation framework
 * Spring profiles - project uses spring profiles to manage enviroments. You can change profile by maven property (just look into pom.xml). 
-** development - in this profile thymeleaf templates are not cached. This way it is easier and faster to develop web app. 
-** production - in this profile thymeleaf templates are cached.
+	* development - in this profile thymeleaf templates are not cached. This way it is easier and faster to develop web app. 
+	* production - in this profile thymeleaf templates are cached.
