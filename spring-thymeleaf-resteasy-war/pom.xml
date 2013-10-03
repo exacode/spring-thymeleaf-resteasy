@@ -6,7 +6,7 @@
 	<packaging>war</packaging>
 
 	<parent>
-		<groupId>net.exacode.bootstrap</groupId>
+		<groupId>net.hexacode.bootstrap</groupId>
 		<artifactId>spring-thymeleaf-resteasy</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>

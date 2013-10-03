@@ -1,4 +1,4 @@
-package net.exacode.bootstrap.web.rest.exception;
+package net.hexacode.bootstrap.web.rest.exception;
 
 import java.io.PrintWriter;
 import java.io.StringWriter;
@@ -6,7 +6,7 @@ import java.io.StringWriter;
 import javax.ws.rs.core.Response;
 import javax.ws.rs.core.Response.Status;
 
-import net.exacode.bootstrap.rest.api.ExceptionMessage;
+import net.hexacode.bootstrap.rest.api.ExceptionMessage;
 
 public class ExceptionResponseBuilder {
 	private Integer status = Status.INTERNAL_SERVER_ERROR.getStatusCode();

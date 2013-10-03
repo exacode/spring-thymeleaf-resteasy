@@ -1,9 +1,9 @@
-package net.exacode.bootstrap.web.model;
+package net.hexacode.bootstrap.web.model;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import net.exacode.bootstrap.rest.api.UserDto;
+import net.hexacode.bootstrap.rest.api.UserDto;
 
 import org.springframework.stereotype.Repository;
 

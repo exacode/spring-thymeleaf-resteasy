@@ -1,4 +1,4 @@
-package net.exacode.bootstrap.rest.api;
+package net.hexacode.bootstrap.rest.api;
 
 import java.io.Serializable;
 

@@ -1,4 +1,4 @@
-package net.exacode.bootstrap.web.config;
+package net.hexacode.bootstrap.web.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -8,7 +8,7 @@ import org.springframework.validation.beanvalidation.LocalValidatorFactoryBean;
 import org.springframework.validation.beanvalidation.MethodValidationPostProcessor;
 
 @Configuration
-@ComponentScan(basePackages = "net.exacode")
+@ComponentScan(basePackages = "net.hexacode")
 @Import({ WebMvcConfiguration.class })
 public class WebApplicationConfiguration {
 	@Bean
