@@ -19,3 +19,11 @@ Features
 * Spring profiles - project uses spring profiles to manage enviroments. You can change profile by maven property (just look into pom.xml). 
 	* development - in this profile thymeleaf templates are not cached. This way it is easier and faster to develop web app. 
 	* production - in this profile thymeleaf templates are cached.
+
+Donation
+--------
+
+I hope you found here something useful and/or interesting.
+Help keep this repository growing in more and better projects. 
+
+<a href='http://www.pledgie.com/campaigns/22261'><img alt='Click here to lend your support to: mendlik-open-repository and make a donation at www.pledgie.com !' src='http://www.pledgie.com/campaigns/22261.png?skin_name=chrome' border='0' /></a>
