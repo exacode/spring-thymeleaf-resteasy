@@ -1,4 +1,4 @@
-package net.hexacode.bootstrap.rest.api;
+package net.exacode.bootstrap.rest.api;
 
 import java.util.List;
 

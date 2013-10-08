@@ -1,4 +1,4 @@
-package net.hexacode.bootstrap.web.config;
+package net.exacode.bootstrap.web.config;
 
 public class ApplicationProfiles {
 	public static final String DEVELOPMENT = "development";

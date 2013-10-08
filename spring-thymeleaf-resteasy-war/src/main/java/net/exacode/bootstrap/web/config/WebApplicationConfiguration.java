@@ -1,4 +1,4 @@
-package net.hexacode.bootstrap.web.config;
+package net.exacode.bootstrap.web.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;

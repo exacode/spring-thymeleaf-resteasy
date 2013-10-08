@@ -1,4 +1,4 @@
-package net.hexacode.bootstrap.web.config;
+package net.exacode.bootstrap.web;
 
 import java.io.IOException;
 import java.util.Arrays;
@@ -6,6 +6,9 @@ import java.util.Arrays;
 import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
 import javax.servlet.ServletRegistration;
+
+import net.exacode.bootstrap.web.config.RestEasyAnnotatedContextLoader;
+import net.exacode.bootstrap.web.config.WebApplicationConfiguration;
 
 import org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher;
 import org.jboss.resteasy.plugins.server.servlet.ResteasyBootstrap;
